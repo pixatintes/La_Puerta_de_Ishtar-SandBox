@@ -1,0 +1,139 @@
+{
+  "title": "La Puerta de Ishtar",
+   "authors": [
+    {
+      "name": "pixatintes",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/pixatintes/La_Puerta_de_Ishtar-SandBox/",
+  "system": "sandbox",
+  "manifest": "https://raw.githubusercontent.com/pixatintes/La_Puerta_de_Ishtar-SandBox/main/world.json",
+  "download": "https://github.com/pixatintes/La_Puerta_de_Ishtar-SandBox/archive/refs/heads/main.zip",
+  "joinTheme": "default",
+  "coreVersion": "11.315",
+  "resetKeys": false,
+  "safeMode": false,
+  "id": "la-puerta-de-ishtar",
+  "system": "sandbox",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.315"
+  },
+  "systemVersion": "0.14.4.4",
+  "background": "worlds/la-puerta-de-ishtar/La%20Puerta%20de%20Ishtar%20-%20La%20Puerta%20de%20Ishtar.jpg",
+  "packs": [
+    {
+      "label": "Ciudades",
+      "type": "JournalEntry",
+      "name": "ciudades",
+      "path": "packs/ciudades",
+      "system": "sandbox",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Bestiario",
+      "type": "Actor",
+      "name": "bestiario",
+      "path": "packs/bestiario",
+      "system": "sandbox",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Dioses",
+      "type": "JournalEntry",
+      "name": "dioses",
+      "path": "packs/dioses",
+      "system": "sandbox",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Lugares",
+      "type": "JournalEntry",
+      "name": "lugares",
+      "path": "packs/lugares",
+      "system": "sandbox",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Personalidades",
+      "type": "JournalEntry",
+      "name": "personalidades",
+      "path": "packs/personalidades",
+      "system": "sandbox",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Las perdidas",
+      "type": "JournalEntry",
+      "name": "las-perdidas",
+      "path": "packs/las-perdidas",
+      "system": "sandbox",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Civilizaciones",
+      "type": "JournalEntry",
+      "name": "civilizaciones",
+      "path": "packs/civilizaciones",
+      "system": "sandbox",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Objetos",
+      "type": "Item",
+      "name": "objetos",
+      "path": "packs/objetos",
+      "system": "sandbox",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "label": "Objetos 2",
+      "type": "Item",
+      "name": "objetos-2",
+      "path": "packs/objetos-2",
+      "system": "sandbox",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "lastPlayed": "Wed Mar 05 2025 22:41:25 GMT+0000 (Coordinated Universal Time)",
+  "playtime": 463369,
+  "safeMode": false
+}
